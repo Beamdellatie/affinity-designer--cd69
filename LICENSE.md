@@ -1,4 +1,4 @@
-
+Enhance Affinity Designer for macOS with Affinity Designer for macOS smart Action: typography tools & real-time preview, the #1 action. Includes typography tools and real-time
 
 
 
